@@ -39,8 +39,8 @@ export default ({ children, height }) => (
       <EmojiWrapper size="1.5em" marginRight="10px">
         📒
       </EmojiWrapper>
-      <a href="http://negotiate.matthewgerstman.com">
-        negotiate.matthewgerstman.com
+      <a href="http://career.matthewgerstman.com">
+        career.matthewgerstman.com
       </a>
     </AlignedDiv>
 
