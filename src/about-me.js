@@ -42,9 +42,9 @@ export default function AboutMe() {
         </CenteredLi>
         <CenteredLi>
           <EmojiWrapper size="40px" marginRight="30px">
-            📊
+            ⚛︎
           </EmojiWrapper>
-          <a href="https://slides.slytherin.dev">career.matthewgerstman.com</a>
+          <a href="https://useReact.nyc">Organizer @ useReact.nyc</a>
         </CenteredLi>
       </ul>
     </React.Fragment>
